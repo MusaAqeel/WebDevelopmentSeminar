@@ -1,6 +1,6 @@
 # Adding style using CSS
 
-As we explored in the beginning of the workshop, [HTML is used to structure the content](./2-add-content.md) of a page. CSS, or Cascading Stylesheets, is used to provide style. CSS is used to set colors and fonts, where on a page information should be displayed, and other decorative items. By keeping HTML and CSS focused on these concerns (sometimes called separation of concerns), you create pages which are easier to modify and maintain, and become more accessible to all users.
+As we explored in the beginning of the workshop, HTML is used to structure the content of a page. CSS, or Cascading Stylesheets, is used to provide style. CSS is used to set colors and fonts, where on a page information should be displayed, and other decorative items. By keeping HTML and CSS focused on these concerns (sometimes called separation of concerns), you create pages which are easier to modify and maintain, and become more accessible to all users.
 
 ## Introducing selectors
 
